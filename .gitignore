@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.env
+*.db
+.pytest_cache/
+htmlcov/
+venv/
+.venv/
+*.log
+temp_plots/
